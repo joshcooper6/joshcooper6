@@ -1,7 +1,6 @@
 # Hi, I'm Joshua Cooper! 👋
-I'm currently learning ReactJS.
-
-
+I'm currently learning HTML, CSS, JS, and React. <br>
+I’m looking to collaborate on any project.
 
 <!--
 **joshcooper6/joshcooper6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
