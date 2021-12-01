@@ -2,6 +2,8 @@
 I'm currently learning HTML, CSS, JS, and React. <br>
 I’m manifesting a life as a Junior Software Developer.
 
+### <a href="https://stackoverflow.com/users/17411692/joshua-cooper">stackOverflow</a>
+
 <!--
 **joshcooper6/joshcooper6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
