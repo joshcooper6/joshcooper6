@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Cooper! 👋
 I'm currently learning HTML, CSS, JS, and React. <br>
-I’m manifesting a life as a Junior Software Developer.
+I’m an aspiring self-taught Junior Web Developer.
 
 ### <a href="https://stackoverflow.com/users/17411692/joshua-cooper" target="_blank">stackOverflow</a>
 
