@@ -1,8 +1,6 @@
 # Hi, I'm Joshua Cooper! 👋
-I'm currently learning HTML, CSS, JS, and React. <br>
-I’m an aspiring self-taught Junior Web Developer.
-
-### <a href="https://stackoverflow.com/users/17411692/joshua-cooper" target="_blank">stackOverflow</a>
+Front End Web Dev <br> HTML / CSS / JS / React <br>
+<a href="https://stackoverflow.com/users/17411692/joshua-cooper" target="_blank">stackOverflow</a>
 
 <!--
 **joshcooper6/joshcooper6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
