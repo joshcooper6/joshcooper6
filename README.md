@@ -1,5 +1,5 @@
 # Hi, I'm Joshua Cooper! 👋
-Front End Web Dev <br> HTML / CSS / JS / React <br>
+Front End Web Developer <br> HTML / CSS / JS / React ⚛️ <br>
 <a href="https://stackoverflow.com/users/17411692/joshua-cooper" target="_blank">stackOverflow</a>
 
 <!--
