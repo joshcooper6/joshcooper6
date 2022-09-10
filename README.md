@@ -1,5 +1,5 @@
 # Hi, I'm Joshua Cooper! 👋
 
-## Expanding my tech career one Javascript method at a time.
+<b>Expanding my tech career one Javascript method at a time.</b>
 
-### Currently a portfolio of projects using React and TailwindCSS as primary frameworks. 
+Currently building a portfolio of projects using React.js and TailwindCSS as primary frameworks. 
