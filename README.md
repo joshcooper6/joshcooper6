@@ -1,5 +1,4 @@
 # Hi, I'm Joshua Cooper! 👋
 
-<b>Expanding my tech career one Javascript method at a time.</b>
-
-Currently building a portfolio of projects using React.js and TailwindCSS as primary frameworks. 
+Self-taught full stack software engineer with 2+ years of experience building web applications. <br />
+<a href="https://joshuacooper.dev" target="_blank">Check out my portfolio
